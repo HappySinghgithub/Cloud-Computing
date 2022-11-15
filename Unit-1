@@ -1,4 +1,19 @@
-Ques-2 Cluster and Utility computing
+Ques-1 What is the difference between Internet and Cloud Computing?
+      Internet is a network of networks, which provides software/hardware infrastructure to establish and maintain connectivity of the computers around the word, while 
+      Cloud computing is a new technology that delivers many types of resources over the Internet. Therefore Cloud computing could be identified as a technology that 
+      uses the Internet as the communication medium to deliver its services. Cloud services can be offered within enterprises through LANs but in reality, Cloud 
+      computing cannot operate globally without the Internet.
+
+Ques-2 What is the commercial cloud?
+      The commercial cloud refers to cloud computing systems built solely for the paying customer with no specific industry in mind. While some people might mistake a 
+      commercial cloud for public cloud solutions, this is often unhelpful. Enterprises can also choose to set up a private cloud ecosystem for themselves within a 
+      commercial cloud platform.
+      A commercial cloud requires some customization to meet industry-specific requirements especially for businesses functioning within the manufacturing industry. To 
+      accomplish the customization process, an enterprise may need to purchase additional management tools or features to accomplish industry-specific tasks. Examples of 
+      commercial cloud solutions include Microsoft’s Azure and Amazon Web Services.
+
+
+Ques-3 Cluster and Utility computing
   (a) Cluster Computing   (https://www.geeksforgeeks.org/an-overview-of-cluster-computing/)
       Multiple servers are grouped together to achieve the same business and regarded as one computer.
       Cluster computing is a collection of tightly or loosely connected computers that work together so that they act as a single entity. The connected computers execute 
@@ -9,4 +24,6 @@ Ques-2 Cluster and Utility computing
       infrastructure based on the pay per use method. It minimizes the associated costs and maximizes the efficient use of resources. The advantage of utility computing 
       is that it reduced the IT cost, provides greater flexibility, and easier to manage.
       Large organizations such as Google and Amazon established their own utility services for computing storage and application.
+      
+
 
