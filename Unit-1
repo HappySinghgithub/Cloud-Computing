@@ -40,4 +40,19 @@ Ques-4 Characteristics of Cloud Computing
       5. Measure Service: Maintining tools.
       6. Security: Copy of our data on various servers. If one fails, data is saves on other.
 
+Ques-5 Cloud Computing
+      The term cloud refers to a network or the internet. It is a technology that uses remote servers on the internet to store, manage, and access data online rather
+      than local drives. The data can be anything such as files, images, documents, audio, video, and more.
+      * Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+      * Cloud-based storage makes it possible to save files to a remote database and retrieve them on demand.
+      * Services can be both public and private—public services are provided online for a fee while private services are hosted on a network to specific clients.
+      * Cloud security has become an increasingly important field in IT.
+
+Ques-6 Hybrid Cloud
+       Hybrid cloud is a combination of public and private clouds.
+       Hybrid cloud = public cloud + private cloud
+       The main aim to combine these cloud (Public and Private) is to create a unified, automated, and well-managed computing environment.
+       In the Hybrid cloud, non-critical activities are performed by the public cloud and critical activities are performed by the private cloud.
+       Mainly, a hybrid cloud is used in finance, healthcare, and Universities.
+       The best hybrid cloud provider companies are Amazon, Microsoft, Google, Cisco, and NetApp.
 
