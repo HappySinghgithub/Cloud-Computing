@@ -9,21 +9,35 @@ Ques-2 What is the commercial cloud?
       commercial cloud for public cloud solutions, this is often unhelpful. Enterprises can also choose to set up a private cloud ecosystem for themselves within a 
       commercial cloud platform.
       A commercial cloud requires some customization to meet industry-specific requirements especially for businesses functioning within the manufacturing industry. To 
-      accomplish the customization process, an enterprise may need to purchase additional management tools or features to accomplish industry-specific tasks. Examples of 
-      commercial cloud solutions include Microsoft’s Azure and Amazon Web Services.
+      accomplish the customization process, an enterprise may need to purchase additional management tools or features to accomplish industry-specific tasks. Examples 
+      of commercial cloud solutions include Microsoft’s Azure and Amazon Web Services.
 
 
 Ques-3 Cluster and Utility computing
   (a) Cluster Computing   (https://www.geeksforgeeks.org/an-overview-of-cluster-computing/)
       Multiple servers are grouped together to achieve the same business and regarded as one computer.
-      Cluster computing is a collection of tightly or loosely connected computers that work together so that they act as a single entity. The connected computers execute 
-      operations all together thus creating the idea of a single system. The clusters are generally connected through fast local area networks (LANs)
+      Cluster computing is a collection of tightly or loosely connected computers that work together so that they act as a single entity. The connected computers 
+      execute operations all together thus creating the idea of a single system. The clusters are generally connected through fast local area networks (LANs)
 
   (b) Utility Computing   (https://www.javatpoint.com/cloud-computing-technologies)
       Utility computing is the most trending IT service model. It provides on-demand computing resources (computation, storage, and programming services via API) and 
-      infrastructure based on the pay per use method. It minimizes the associated costs and maximizes the efficient use of resources. The advantage of utility computing 
-      is that it reduced the IT cost, provides greater flexibility, and easier to manage.
+      infrastructure based on the pay per use method. It minimizes the associated costs and maximizes the efficient use of resources. The advantage of utility 
+      computing is that it reduced the IT cost, provides greater flexibility, and easier to manage.
       Large organizations such as Google and Amazon established their own utility services for computing storage and application.
       
+Ques-4 Characteristics of Cloud Computing
+      1. On-demand self-services: Users can use the cloud service as per demand
+                           In cloud computing, multiples client can share the resourcea and applications at the same time. These cloud services and resources can 
+                           be used on demand and often bought on a subscription basis without Human interaction with the service provider.
+      2. Borad network access: Can be access anytime from anywhere.
+                           The serviece can be accessed on the internet anytime and anywhere in the world through multiple devices such as mobile,laptop,tablets etc.
+      3. Resourse Pooling: Multiple users sharing pool of resourse.
+                           The resource like virtual server space network connections,bandwidth etc are pooled by multiple users, simultaneous from any location,
+                           without being interfered by the other users.
+      4. Scalability: Resourse can scaled at anytime.
+                           One of the great thing about the cloud computing is the ability to quickly provision resources in the cloud as the organization need them. 
+                           (and then to remove them when they don't need them).
+      5. Measure Service: Maintining tools.
+      6. Security: Copy of our data on various servers. If one fails, data is saves on other.
 
 
