@@ -59,3 +59,18 @@ Ques-6 Hybrid Cloud
 Ques-7 Difference between Hybrid and community coud
       https://www.researchgate.net/figure/Comparison-among-Public-Private-Hybrid-and-Community-Cloud_tbl1_27095859
       https://networkinterview.com/public-vs-private-vs-hybrid-vs-community-clouds/
+      
+Ques-8 Difference between Public and Private cloud
+                   Public                                                                                    Private
+      * When the computing infrastructure and resources are shared to the public           When the computing infrastructure and the resources are shared to the private
+        via the internet, it is known as a public cloud.                                   network via the internet, it is known as a private cloud.
+      * A public cloud is like a multi-tenant in which the network is managed by           A private cloud is like a single-tenant in which the network is handled by 
+        your service provider.                                                             the in-house team.
+      * Here the data of several enterprises is stored.                                    Here the data of a single enterprise is stored
+      * It supports the activity performed over the public network or internet.            It supports the activity performed over the private network or internet.
+      * The scalability is high in a public cloud.                                         The scalability is limited in a private cloud.
+      * Reliability is moderate here.                                                      Reliability is high here.
+      * The security depends on the service provider.                                      It delivers a high class of security.
+      * It is affordable as compared to the private cloud.                                 It is expensive as compared to the public cloud.
+      * In the public cloud, the performance is low to medium.                             The performance is high in a private cloud.
+      * It covers the shared servers.                                                      It covers the devoted servers.
