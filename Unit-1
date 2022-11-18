@@ -87,3 +87,23 @@ Ques-9 Security As a Service
        * You have access to experts who are focused solely on security so your team can focus solely on your business.
        * You have flexibility to scale security up or down quickly because SECaaS offerings provide instant access on demand.
        
+       Cloud Security consists of:-
+       - set of policies
+       - controls
+       - procedures
+       - technologies
+       that work together to protect cloud based system, data and infrastructure.
+       service delivery depend upon the individual cloud service provider or the cloud security solution.
+       CHALLENGES/ISSUES
+       -> Data loss
+       -> Hacked interfaces and APIs
+       -> Data Breach(Hacking of Data)
+       -> Vendor-lock-in
+       -> Denial of Service(DoS) attack (Flooding of service with so much traffic)
+       -> Account Hijacking
+       -> Misconfiguration
+       -> Accidental Exposure
+       -> CyberSecurity Attack
+       -> Data Privacy & confidentiality
+       
+       
