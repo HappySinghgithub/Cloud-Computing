@@ -74,3 +74,9 @@ Ques-8 Difference between Public and Private cloud
       * It is affordable as compared to the private cloud.                                 It is expensive as compared to the public cloud.
       * In the public cloud, the performance is low to medium.                             The performance is high in a private cloud.
       * It covers the shared servers.                                                      It covers the devoted servers.
+
+Ques-9 Security As a Service
+       Security as a service (SECaaS) allows companies to use an external provider to handle and manage cybersecurity. Outsourced security solutions cover services
+       like data loss prevention, antivirus management and intrusion detection. By using a SECaaS vendor, companies benefit from the expertise and innovation of a 
+       dedicated cybersecurity team specializing in the intricacies of preventing breaches in a cloud computing environment.
+       
