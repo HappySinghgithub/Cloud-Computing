@@ -98,7 +98,7 @@ Ques-9 Security As a Service
        -> Data loss
        -> Hacked interfaces and APIs
        -> Data Breach(Hacking of Data)
-       -> Vendor-lock-in
+       -> Vendor-lock-in (Different-different platform)
        -> Denial of Service(DoS) attack (Flooding of service with so much traffic)
        -> Account Hijacking
        -> Misconfiguration
