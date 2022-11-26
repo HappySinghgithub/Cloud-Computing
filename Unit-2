@@ -1,0 +1,42 @@
+Ques-1> What is AWS?
+        The full form of AWS is Amazon Web Services. It is a platform that offers flexible, reliable, scalable, easy-to-use and, cost-effective cloud computing 
+        solutions. AWS is a comprehensive, easy to use computing platform offered Amazon. The platform is developed with a combination of infrastructure as a service
+        (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
+        
+        Important AWS Services
+        Amazon Web Services offers a wide range of different business purpose global cloud-based products. The products include storage, databases, analytics, 
+        networking, mobile, development tools, enterprise applications, with a pay-as-you-go pricing model.
+        
+        Applications of AWS services
+        Amazon Web services are widely used for various computing purposes like:
+        - Web site hosting
+        - Application hosting/SaaS hosting
+        - Media Sharing (Image/ Video)
+        - Mobile and Social Applications
+        - Content delivery and Media Distribution
+        - Storage, backup, and disaster recovery
+        - Development and test environments
+        - Academic Computing
+        - Search Engines
+        - Social Networking
+        
+        Companies using AWS
+        - Instagram
+        - Netflix
+        - LinkedIn
+        - Facebook
+        - Pinterest
+        - Dropbox
+        
+        Advantages of AWS
+        * AWS allows organizations to use the already familiar programming models, operating systems, databases, and architectures.
+        * It is a cost-effective service that allows you to pay only for what you use, without any up-front or long-term commitments.
+        * You can easily add or remove capacity.
+        * You are allowed cloud access quickly with limitless capacity.
+        * Offers Centralized Billing and management
+        * Offers Hybrid Capabilities
+        * Allows you to deploy your application in multiple regions around the world with just a few clicks
+
+        Disadvantages of AWS
+        * Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
+        * Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
