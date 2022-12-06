@@ -1,4 +1,15 @@
-Kernel-Based Virtual Machine (KVM)
+Ques > Kernel-Based Virtual Machine (KVM)
 Kernel-Based Virtual Machine (KVM) is an open source virtualization module directly built into the Linux kernel, enabling Linux OS to function as a Type 1 (bare-metal)
 hypervisor. However, worth noting is that the distinction between Type 1 and Type 2 hypervisors can be blurred with KVM, as it can function as either of the two. 
-Furthermore, it enables the hypervisor to deploy separate virtual machines. 
+Furthermore, it enables the hypervisor to deploy separate virtual machines.
+
+KVM Advantages 
+* KVM module is built into the Linux kernel, it comes built-in with most Linux distributions.
+* KVM is open source, which means it's free to use, regularly updated, and very secure due to being part of the world's largest open source community.
+* KVM is very stable and has excellent performance with suitable hardware.
+* KVM has fantastic command-line options with a polished GUI interface.
+
+KVM Disadvantages
+* Depending on a user's needs and infrastructure, the host hardware needs to be robust.
+* Because KVM is a Linux kernel module, it can't run on most operating systems with a few exceptions, such as FreeBSD and illumos.
+* Centralized hardware, which can be problematic in cases of failure
