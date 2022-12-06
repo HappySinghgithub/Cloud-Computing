@@ -1,0 +1,4 @@
+Kernel-Based Virtual Machine (KVM)
+Kernel-Based Virtual Machine (KVM) is an open source virtualization module directly built into the Linux kernel, enabling Linux OS to function as a Type 1 (bare-metal)
+hypervisor. However, worth noting is that the distinction between Type 1 and Type 2 hypervisors can be blurred with KVM, as it can function as either of the two. 
+Furthermore, it enables the hypervisor to deploy separate virtual machines. 
